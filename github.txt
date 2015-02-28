@@ -12,3 +12,6 @@ ddddd
 这是什么你们知道 吗？i
 sorry i dont know!
 
+http://seed.fuel-infra.org/fuelweb-release/MirantisOpenStack-6.0.iso
+
+
