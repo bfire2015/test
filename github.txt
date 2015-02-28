@@ -3,10 +3,10 @@ this edit user.name =bfire
 this edit user.email = bfire@163.com
 
 just for test
-2015Äê2ÔÂ28ÈÕ14:33:50
-Ê±¼äÀ´µÄ
-ÕâÊÇÊ²Ã´À´µÄ
+2015å¹´2æœˆ28æ—¥14:33:50
+æ—¶é—´æ¥çš„
+è¿™æ˜¯ä»€ä¹ˆæ¥çš„
 this is test
-¸Ê¿ªÓĞkkk
+ç”˜å¼€æœ‰kkk
 ddddd
 
